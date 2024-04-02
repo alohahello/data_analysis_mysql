@@ -1,0 +1,140 @@
+{
+  "customers": [
+    {
+      "customerId": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "phoneNumber": "123-456-7890"
+    },
+    {
+      "customerId": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example.com",
+      "phoneNumber": "098-765-4321"
+    },
+    {
+      "customerId": 3,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice.johnson@example.com",
+      "phoneNumber": "135-792-4680"
+    },
+    {
+      "customerId": 4,
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "email": "bob.brown@example.com",
+      "phoneNumber": "246-810-1214"
+    },
+    {
+      "customerId": 5,
+      "firstName": "Carol",
+      "lastName": "Davis",
+      "email": "carol.davis@example.com",
+      "phoneNumber": "357-924-1357"
+    },
+    {
+      "customerId": 6,
+      "firstName": "David",
+      "lastName": "Wilson",
+      "email": "david.wilson@example.com",
+      "phoneNumber": "369-258-1470"
+    },
+    {
+      "customerId": 7,
+      "firstName": "Eva",
+      "lastName": "Martinez",
+      "email": "eva.martinez@example.com",
+      "phoneNumber": "321-654-9870"
+    },
+    {
+      "customerId": 8,
+      "firstName": "Frank",
+      "lastName": "Garcia",
+      "email": "frank.garcia@example.com",
+      "phoneNumber": "741-852-9630"
+    },
+    {
+      "customerId": 9,
+      "firstName": "Grace",
+      "lastName": "Robinson",
+      "email": "grace.robinson@example.com",
+      "phoneNumber": "852-963-7410"
+    },
+    {
+      "customerId": 10,
+      "firstName": "Henry",
+      "lastName": "Walker",
+      "email": "henry.walker@example.com",
+      "phoneNumber": "963-741-8520"
+    }
+  ],
+  "accounts": [
+    {
+      "customerId": 1,
+      "accountNumber": "100000001",
+      "balance": 7850.25
+    },
+    {
+      "customerId": 2,
+      "accountNumber": "100000002",
+      "balance": 9250
+    },
+    {
+      "customerId": 3,
+      "accountNumber": "100000003",
+      "balance": 3045.55
+    },
+    {
+      "customerId": 4,
+      "accountNumber": "100000004",
+      "balance": 12300.1
+    },
+    {
+      "customerId": 5,
+      "accountNumber": "100000005",
+      "balance": 5500.75
+    },
+    {
+      "customerId": 6,
+      "accountNumber": "100000006",
+      "balance": 1460
+    },
+    {
+      "customerId": 7,
+      "accountNumber": "100000007",
+      "balance": 7499.99
+    },
+    {
+      "customerId": 8,
+      "accountNumber": "100000008",
+      "balance": 5820.45
+    },
+    {
+      "customerId": 9,
+      "accountNumber": "100000009",
+      "balance": 10000
+    },
+    {
+      "customerId": 10,
+      "accountNumber": "100000010",
+      "balance": 2550.6
+    },
+    {
+      "customerId": "1",
+      "firstName": "All",
+      "lastName": "Dos",
+      "email": "alldos@example.com",
+      "phoneNumber": "423-234-2020"
+    },
+    {
+      "customerId": "10",
+      "firstName": "Henry",
+      "lastName": "Walker",
+      "email": "henry.a.walker@gmail.com",
+      "phoneNumber": "953-222-3212"
+    }
+  ]
+}
